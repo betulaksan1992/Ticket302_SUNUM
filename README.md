@@ -6,11 +6,11 @@ Bu projenin tüm hakları ben Betül Akşan'a, 302 sabah grubu sınıfımın ö�
 
 # PROJE HAKKINDA TEKNİK BİLGİLER:
 
--Proje Visual Studio .Net 6 ASP.NET MVC CORE API ile yazıldı.
--Proje Entity Framework Core Code-First yaklaşımıyla yazılmıştır.
--Projede AspnetCore Identity kullanarak üyelik sistemini yazdık.
--Projeyi 4 katman (EL,DAL,BLL,API) olarak yazdık.
--Authorize işlemleri için JWT kullanıldı.
+- Proje Visual Studio .Net 6 ASP.NET MVC CORE API ile yazıldı.
+- Proje Entity Framework Core Code-First yaklaşımıyla yazılmıştır.
+- Projede AspnetCore Identity kullanarak üyelik sistemini yazdık.
+- Projeyi 4 katman (EL,DAL,BLL,API) olarak yazdık.
+- Authorize işlemleri için JWT kullanıldı.
 
 Proje gelişmeye açık olup zaman buldukça yeni sayfalar ya da yeni özellikler eklenecektir.
 Ekran resimleri ve kaynak kodlardan bir parça aşağıda görebilirsiniz .
