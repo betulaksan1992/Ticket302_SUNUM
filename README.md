@@ -4,8 +4,7 @@ Merhaba, Tiket302 İstanbul - Beşiktaş Wissen Akademi'de Eğitmenlik yaptığ�
 
 Bu projenin tüm hakları ben Betül Akşan'a, 302 sabah grubu sınıfımın öğrencilerine aittir. Burada projenin ekran resimlerini ve kaynak kodlardan bazı kod parçalarını aşağıda görebilirsiniz.
 
-#
-PROJE HAKKINDA TEKNİK BİLGİLER:#
+#PROJE HAKKINDA TEKNİK BİLGİLER:#
 
 -Proje Visual Studio .Net 6 ASP.NET MVC CORE API ile yazıldı.
 -Proje Entity Framework Core Code-First yaklaşımıyla yazılmıştır.
